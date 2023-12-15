@@ -3,7 +3,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Base URL -->
-	<base href="http://kosarkardan.com/AAU/IXD_608/Kardan_Kosar/" />
+	<base href="http://kosarkardan.com/aau/IXD_608/Kardan_Kosar/" />
 
 	<!-- Library Files -->
 	
